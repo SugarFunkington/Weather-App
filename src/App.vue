@@ -34,7 +34,7 @@ export default {
       // Weather API Data
       api_key: '0a0ae273264b3a2facc2da4dc3b568f6',
       weather_url: 'https://api.openweathermap.org/data/2.5/weather?',
-      geo_url:'http://api.openweathermap.org/geo/1.0/direct?q=',
+      geo_url:'https://api.openweathermap.org/geo/1.0/direct?q=',
       weather: {},
       location: {},
       // Unsplash API Data
