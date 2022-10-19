@@ -1,10 +1,12 @@
 # weather
 
+This project is live on Github Pages: https://sugarfunkington.github.io/Weather-App/ 
+
 ## Project Features
 - Open Weather API to fetch weather details
 - Gathers user location on load for default display
 - Unsplash API searches and displays image BG to match weather conditions
-- Loading state while request is being made
+- Loading state while requests are being made
 
 ## Project setup
 ```
